@@ -18,7 +18,7 @@ parameter : for parameters inside classe constructor
 
 Custom directive
 
-npm install http-server -g
+npm install http-server -gsdfsdfsdfsdfsdf
 
 build and run
 http-server dist/ang-routing
