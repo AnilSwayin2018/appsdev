@@ -13,7 +13,7 @@ property: for properties inside classes
 	@input & @Output to define properties that send or received data from DOM
 Method : for methods inside classes
 	@HostListener
-parameter : for parameters inside classe constructor
+parameter : for parameters inside classe constructorsf fa asf sadf
 	@Inject
 
 Custom directive
