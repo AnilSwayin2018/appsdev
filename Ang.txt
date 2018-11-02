@@ -1,0 +1,27 @@
+pipe
+directives
+decorators
+
+decorators are simple functions that return functions.
+these functions supply metadat to angular
+invoked at runtime.
+Types:
+Class
+	@NgModule() to define modules
+	@NgComponent to define components
+property: for properties inside classes
+	@input & @Output to define properties that send or received data from DOM
+Method : for methods inside classes
+	@HostListener
+parameter : for parameters inside classe constructor
+	@Inject
+
+Custom directive
+
+npm install http-server -g
+
+build and run
+http-server dist/ang-routing
+
+prod mode
+ng build --prod
