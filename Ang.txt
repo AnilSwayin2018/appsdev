@@ -1,4 +1,4 @@
-branch 1 changed
+branch 1 has changed
 
 pipe
 directives
